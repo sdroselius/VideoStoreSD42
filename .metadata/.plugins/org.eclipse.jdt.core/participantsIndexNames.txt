@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+/Users/robroselius/_SD42/Java/VideoStore/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3113779763.index
+/BootMVCVideoStore/src/main/java
+/Users/robroselius/_SD42/Java/VideoStore/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1097166505.index
+/BootMVCVideoStore/src/main/java
